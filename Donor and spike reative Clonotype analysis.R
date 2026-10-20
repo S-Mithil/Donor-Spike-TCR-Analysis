@@ -33,9 +33,8 @@
 #   3. CD8_Direct_PreDRTCCs.csv
 #   4. Pt1006_Spike_Reactive_Clones_30M_33-7M_54M.xlsx
 #
-# The complete TCRbeta sequencing dataset can be deposited separately in
-# ImmuneACCESS. This script can be distributed without patient-identifiable
-# raw clinical data; it operates on the processed repertoire-level inputs.
+# “The complete TCRβ sequencing dataset is publicly available through ImmuneACCESS at https://clients.adaptivebiotech.com/pub/soni-2026-s.”
+# This script can be distributed without patient-identifiable raw clinical data; it operates on the processed repertoire-level inputs.
 #
 # IMPORTANT ANALYTIC DEFINITIONS
 # - Post-transplant DRTCC: productive frequency >=1e-5 in CFSE-low MLR cells
